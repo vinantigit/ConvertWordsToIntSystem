@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ConvertWordsToIntWebApplication.Controllers.ConverterController",
+    "Method": "Convert",
+    "RelativePath": "api/Converter/convert",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "words",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

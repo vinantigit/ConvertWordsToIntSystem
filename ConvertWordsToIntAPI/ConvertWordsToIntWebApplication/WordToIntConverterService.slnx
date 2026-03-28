@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../WordsToIntConverter.Core/WordsToIntConverter.Core.csproj" />
+  <Project Path="../WordToIntConverter.Tests/WordToIntConverter.Tests.csproj" Id="abb817b3-37a2-4679-8d7f-a5d6ac620e76" />
+  <Project Path="WordToIntConverter.Api.csproj" />
+</Solution>
